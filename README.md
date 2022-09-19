@@ -2,12 +2,13 @@
 <h1 align="left">Hello, gentlemen! </h1>
 <h3 align="left">Fullstack Web Development is the main exertion of mine.</h3>
 <br>
-<div align="left">
-<p>- 🌱 I’m currently learning MERN stack development!</p>
-<p>- 💪 Most preferred language of mine is JavaScript!</p>
-<p>- 🦇 My favourite superhero is Batman, to be honest.</p>
-<p>- ⚡ I'm a chill dude who spends hours programm--ing!</p>
-</div>
+<br>
+<a>
+- 🌱 I’m currently learning MERN stack development!  <br>
+- 💪 Most preferred language of mine is JavaScript!<br>
+- 🦇 My favourite superhero is Batman, to be honest.<br>
+- ⚡ I'm a chill dude who spends hours programm--ing!<br>
+</a>
 <br>
 <h3 align="left">Connect with me:</h3><br>
 <p align="left">
