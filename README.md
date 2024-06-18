@@ -4,10 +4,10 @@
 <br>
 <br>
 <a>
-- 🌱 I’m currently learning MERN stack development!  <br>
-- 💪 Most preferred language of mine is JavaScript!<br>
-- 🦇 My favourite superhero is Batman, to be honest.<br>
-- ⚡ I'm a chill dude who spends hours programm--ing!<br>
+- 🌱 I’m currently learning backend!  <br>
+- 💪 JavaScript is my flex!<br>
+- 🦇 My favourite superhero is Batman <br>
+- ⚡ I'm a chill dude!<br>
 </a>
 <br>
 <h3 align="left">Connect with me:</h3><br>
