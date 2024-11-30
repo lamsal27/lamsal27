@@ -5,9 +5,8 @@
 <br>
 <a>
 - 🌱 I’m currently learning backend!  <br>
-- 💪 JavaScript is my flex!<br>
-- 🦇 My favourite superhero is Batman <br>
-- ⚡ I'm a chill dude!<br>
+- 💪 JavaScript is my main language!<br>
+- ⚡ I'm a chill guy who enjoys everything!<br>
 </a>
 <br>
 <h3 align="left">Connect with me:</h3><br>
