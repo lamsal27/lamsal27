@@ -1,6 +1,6 @@
 <!-- Profile Section -->
 <section id="profile" style="font-family: Arial, sans-serif; text-align: left; background-color: #f9f9f9; padding: 40px;">
-    <h1 style="font-size: 36px; color: #333;">Hey there!</h1>
+    <h1 style="font-size: 36px; color: #333;">Hey there! 👋</h1>
   <br>
     <h3 style="font-size: 24px; color: #555;">I'm just getting started, but I’m already hooked on coding!</h3>
     <div style="font-size: 18px; color: #666;">
